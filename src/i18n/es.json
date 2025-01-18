@@ -1,0 +1,25 @@
+{
+  "gameForm": {
+    "title": "Formulario de Búsqueda de Juegos",
+    "genreLabel": "Selecciona hasta 2 géneros:",
+    "ageCategoryLabel": "Selecciona la categoría de edad:",
+    "qualityLabel": "Selecciona la calidad:",
+    "platformLabel": "Selecciona la plataforma:",
+    "submitButton": "Buscar Juegos"
+  },
+  "gameDetails": {
+    "title": "Detalles del Juego",
+    "name": "Nombre del Juego",
+    "cover": "Portada",
+    "screenshots": "Capturas de Pantalla",
+    "genres": "Géneros",
+    "releaseDate": "Fecha de Lanzamiento",
+    "metacriticScore": "Puntuación de Metacritic",
+    "description": "Descripción",
+    "storeLinks": "Enlaces a Tiendas"
+  },
+  "messages": {
+    "noResults": "No se encontraron juegos que coincidan con tus criterios.",
+    "loading": "Cargando..."
+  }
+}
